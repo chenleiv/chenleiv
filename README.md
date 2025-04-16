@@ -1,5 +1,5 @@
 - Hi, I’m @chenleiv
-- I’m interested in Frotend / Full-stack role.
+- Frotend / Full-stack.
 - Work experiance as frontend developer. Typescript | Angular| React | scss | nx | node.js | more...
 
 - Please check my portfolio https://chenleiv.github.io/my-portfolio/#/info
