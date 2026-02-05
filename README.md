@@ -1,5 +1,5 @@
-- Hi, I’m @chenleiv
-- Frontend Developer | Scalable Web Apps | Angular · React · TypeScript
+Hi, I’m @chenleiv
+Frontend Developer | Scalable Web Apps | Angular · React · TypeScript
 
   
 Frontend Developer with 3+ years of experience building scalable, high-performance web applications using modern frameworks and best practices.
