@@ -1,9 +1,10 @@
 - Hi, I’m @chenleiv
-- Frotend / Full-stack.
+- Frontend Developer | Scalable Web Apps | Angular · React · TypeScript
+
   
-🌟 Passionate Frontend Developer with 3 years of hands-on experience building modern, scalable, and high-performance web applications.
-🚀 Quick learner, creative problem solver, and a true team player who thrives in dynamic, fast-paced environments.
-💡 Always curious, always building — driven by a love for clean code, great UX, and continuous growth.
+Frontend Developer with 3+ years of experience building scalable, high-performance web applications using modern frameworks and best practices.
+Specializes in intuitive UX, clean and maintainable code, and performance optimization.
+Strong problem solver with high attention to detail and a passion for continuous learning and innovation.
  Typescript | Angular| React | scss | nx | node.js | more...
 
 - Please check my portfolio https://chenleiv.github.io/my-portfolio/#/info
