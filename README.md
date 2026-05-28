@@ -64,10 +64,8 @@ Focused on intuitive UX, attention to detail, and continuous growth.
 
 **About**
 
-&nbsp;&nbsp;Intuitive UX over clever code — always<br>
 &nbsp;&nbsp;Detail-oriented · problem solver · perpetual learner<br>
-&nbsp;&nbsp;Mentoring girls in tech @ She Codes<br>
-&nbsp;&nbsp;Dog mom to Bucky 🐶 &nbsp;·&nbsp; Tel Aviv &nbsp;·&nbsp; film &nbsp;·&nbsp; gaming
+&nbsp;&nbsp;Dog mom to Bucky 🐶 &nbsp;·&nbsp; Tel Aviv
 
 <br>
 
