@@ -36,19 +36,6 @@
 
 ---
 
-### `// GITHUB_STATS.SYS`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chenleiv&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&icon_color=ffff00&text_color=88ff88" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenleiv&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=88ff88" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chenleiv&theme=dark&hide_border=true&background=0a0a0a&ring=00ff41&fire=ffff00&currStreakLabel=00ff41"/>
-</p>
-
----
-
 ### `// PROJECTS.EXE`
 
 > **★ [InsightDesk](https://github.com/YOUR_USERNAME/insightdesk)**
