@@ -38,12 +38,12 @@
 
 ### `// PROJECTS.EXE`
 
-> **★ [InsightDesk](https://github.com/YOUR_USERNAME/insightdesk)**
+> **★ [InsightDesk](https://github.com/chenleiv/insight-desk)**
 > Document management platform with a built-in AI assistant powered by RAG.
 > Ask your documents questions and actually get answers.
 > `React` `Node.js` `RAG` `AI`
 
-> **★ [SignalForge](https://github.com/YOUR_USERNAME/signalforge)**
+> **★ [SignalForge](https://github.com/chenleiv/signal-forge)**
 > Real-time cyber threat intelligence dashboard. Live signals, clean interface, zero lag.
 > `Angular 19` `FastAPI` `TypeScript`
 
