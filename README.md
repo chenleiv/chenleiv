@@ -1,20 +1,14 @@
 <div align="center">
 
-```
- ██████╗██╗  ██╗███████╗███╗   ██╗    ██╗     ███████╗██╗██╗   ██╗
-██╔════╝██║  ██║██╔════╝████╗  ██║    ██║     ██╔════╝██║██║   ██║
-██║     ███████║█████╗  ██╔██╗ ██║    ██║     █████╗  ██║██║   ██║
-██║     ██╔══██║██╔══╝  ██║╚██╗██║    ██║     ██╔══╝  ██║╚██╗ ██╔╝
-╚██████╗██║  ██║███████╗██║ ╚████║    ███████╗███████╗██║ ╚████╔╝
- ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝    ╚══════╝╚══════╝╚═╝  ╚═══╝
-```
+### > Chen Leiv
 
 **Frontend Developer · 4 years of experience**
 
-*Building scalable apps that are fast and actually pleasant to use.*
+*4 years building scalable, high-performance web apps with modern frontend frameworks.*
+*Focused on intuitive UX, attention to detail, and a drive for learning and growth.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1625?style=flat-square&logo=linkedin&logoColor=c8b8f0)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1625?style=flat-square&logoColor=c8b8f0)](https://YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1625?style=flat-square&logo=linkedin&logoColor=c8b8f0)](https://www.linkedin.com/in/chen-leiv/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1625?style=flat-square&logoColor=c8b8f0)](https://chenleiv.vercel.app/)
 [![Email](https://img.shields.io/badge/chenleiv1@gmail.com-1a1625?style=flat-square&logo=gmail&logoColor=c8b8f0)](mailto:chenleiv1@gmail.com)
 
 </div>
@@ -51,13 +45,12 @@ Real-time cyber threat intelligence dashboard. Live signals, clean interface, ze
 ### `// about`
 
 ```
-› Frontend dev who cares about UX, perf, and clean code
-› 4 years shipping real products for real users
+› Focused on intuitive UX and high-performance interfaces
+› Detail-oriented, problem-solver, always learning
+› Mentoring girls in tech @ She Codes
 › Dog mom to Bucky 🐶
-› Lives in Tel Aviv
+› Tel Aviv · film · gaming · tech
 ```
-
----
 
 ---
 
