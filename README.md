@@ -1,91 +1,90 @@
 <div align="center">
 
-```
-░█████╗░██╗░░██╗███████╗███╗░░██╗  ██╗░░░░░███████╗██╗██╗░░░██╗
-██╔══██╗██║░░██║██╔════╝████╗░██║  ██║░░░░░██╔════╝██║██║░░░██║
-██║░░╚═╝███████║█████╗░░██╔██╗██║  ██║░░░░░█████╗░░██║╚██╗░██╔╝
-██║░░██╗██╔══██║██╔══╝░░██║╚████║  ██║░░░░░██╔══╝░░██║░╚████╔╝░
-╚█████╔╝██║░░██║███████╗██║░╚███║  ███████╗███████╗██║░░╚██╔╝░░
-░╚════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚══╝  ╚══════╝╚══════╝╚═╝░░░╚═╝░░░
-```
+<br>
 
-`frontend developer` · `tel aviv` · `4 yrs exp`
+# Chen Leiv
 
-4 years building scalable, high-performance web apps with modern frontend frameworks.
-Focused on intuitive UX, attention to detail, and a drive for learning and growth.
+**Frontend Developer**
 
-[![LinkedIn](https://img.shields.io/badge/↗_linkedin-2d2440?style=flat-square&logoColor=c8b8f0)](https://www.linkedin.com/in/chen-leiv/)
-[![Portfolio](https://img.shields.io/badge/↗_portfolio-2d2440?style=flat-square&logoColor=c8b8f0)](https://chenleiv.vercel.app/)
-[![Email](https://img.shields.io/badge/↗_email-2d2440?style=flat-square&logoColor=c8b8f0)](mailto:chenleiv1@gmail.com)
+<br>
+
+4 years building scalable, high-performance web applications.
+Focused on intuitive UX, attention to detail, and continuous growth.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://www.linkedin.com/in/chen-leiv/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=58a6ff&labelColor=0d1117)](https://chenleiv.vercel.app/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff&labelColor=0d1117)](mailto:chenleiv1@gmail.com)
+
+<br>
 
 </div>
 
 ---
 
-```
-// stack.config
-```
+<br>
 
-![React](https://img.shields.io/badge/React-2d2440?style=flat-square&logo=react&logoColor=c8b8f0)
-![Angular](https://img.shields.io/badge/Angular-2d2440?style=flat-square&logo=angular&logoColor=c8b8f0)
-![TypeScript](https://img.shields.io/badge/TypeScript-2d2440?style=flat-square&logo=typescript&logoColor=c8b8f0)
-![Next.js](https://img.shields.io/badge/Next.js-2d2440?style=flat-square&logo=nextdotjs&logoColor=c8b8f0)
-![Node.js](https://img.shields.io/badge/Node.js-2d2440?style=flat-square&logo=nodedotjs&logoColor=b8a8d0)
-![FastAPI](https://img.shields.io/badge/FastAPI-2d2440?style=flat-square&logo=fastapi&logoColor=b8a8d0)
-![MongoDB](https://img.shields.io/badge/MongoDB-2d2440?style=flat-square&logo=mongodb&logoColor=b8a8d0)
-![Redux](https://img.shields.io/badge/Redux-2d2440?style=flat-square&logo=redux&logoColor=9b85cc)
-![MobX](https://img.shields.io/badge/MobX-2d2440?style=flat-square&logoColor=9b85cc)
-![AI/RAG](https://img.shields.io/badge/AI_/_RAG-2d2440?style=flat-square&logoColor=9b85cc)
+**Stack**
 
----
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=58a6ff)
+![Angular](https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=58a6ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=58a6ff)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=8b949e)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=8b949e)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=8b949e)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=8b949e)
+![Redux](https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=6e7681)
+![MobX](https://img.shields.io/badge/MobX-0d1117?style=flat-square&logoColor=6e7681)
+![AI · RAG](https://img.shields.io/badge/AI_·_RAG-0d1117?style=flat-square&logoColor=6e7681)
 
-```
-// projects[]
-```
-
-**[◈ InsightDesk](https://github.com/chenleiv/insight-desk)**
-Document management with a built-in AI assistant powered by RAG.
-Ask your docs questions — get real answers.
-`React` `Node.js` `RAG` `AI`
-
-**[◈ SignalForge](https://github.com/chenleiv/signal-forge)**
-Real-time cyber threat intelligence dashboard.
-Live signals, clean interface, zero lag.
-`Angular 19` `FastAPI` `TypeScript`
+<br>
 
 ---
 
-```
-// whoami
-```
+<br>
 
-```
-› intuitive UX over clever code — always
-› detail-oriented problem solver, perpetual learner
-› mentoring girls in tech @ She Codes
-› dog mom to Bucky 🐶
-› tel aviv · film · gaming · building things that matter
-```
+**Projects**
+
+&nbsp;&nbsp;[InsightDesk](https://github.com/chenleiv/insight-desk) — Document management platform with an AI assistant powered by RAG.
+&nbsp;&nbsp;`React` `Node.js` `RAG`
+
+<br>
+
+&nbsp;&nbsp;[SignalForge](https://github.com/chenleiv/signal-forge) — Real-time cyber threat intelligence dashboard. Live signals, zero lag.
+&nbsp;&nbsp;`Angular 19` `FastAPI` `TypeScript`
+
+<br>
+
+---
+
+<br>
+
+**About**
+
+&nbsp;&nbsp;Intuitive UX over clever code — always<br>
+&nbsp;&nbsp;Detail-oriented · problem solver · perpetual learner<br>
+&nbsp;&nbsp;Mentoring girls in tech @ She Codes<br>
+&nbsp;&nbsp;Dog mom to Bucky 🐶 &nbsp;·&nbsp; Tel Aviv &nbsp;·&nbsp; film &nbsp;·&nbsp; gaming
+
+<br>
 
 ---
 
-```
-// stats
-```
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chenleiv&show_icons=true&hide_border=true&bg_color=1a1228&title_color=c8b8f0&icon_color=9b85cc&text_color=b8a8d0&ring_color=9b85cc" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenleiv&layout=compact&hide_border=true&bg_color=1a1228&title_color=c8b8f0&text_color=b8a8d0" height="155"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chenleiv&hide_border=true&background=1a1228&ring=9b85cc&fire=c8b8f0&currStreakLabel=9b85cc&sideLabels=b8a8d0&dates=6a5a8a&sideNums=c8b8f0&currStreakNum=c8b8f0"/>
-</p>
-
----
+<br>
 
 <div align="center">
-  <sub>
-    <code>chenleiv@github:~$ █</code>
-  </sub>
+
+<img src="https://github-readme-stats.vercel.app/api?username=chenleiv&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="155"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenleiv&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="155"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=chenleiv&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681&sideNums=c9d1d9&currStreakNum=c9d1d9"/>
+
 </div>
+
+<br>
