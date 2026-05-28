@@ -53,23 +53,11 @@ Real-time cyber threat intelligence dashboard. Live signals, clean interface, ze
 ```
 › Frontend dev who cares about UX, perf, and clean code
 › 4 years shipping real products for real users
-› Mentoring girls in tech @ She Codes
 › Dog mom to Bucky 🐶
-› Tel Aviv · film · gaming · always learning
+› Lives in Tel Aviv
 ```
 
 ---
-
-### `// stats`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chenleiv&show_icons=true&hide_border=true&bg_color=1a1625&title_color=c8b8f0&icon_color=9b85cc&text_color=b8a8d0" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenleiv&layout=compact&hide_border=true&bg_color=1a1625&title_color=c8b8f0&text_color=b8a8d0" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chenleiv&hide_border=true&background=1a1625&ring=9b85cc&fire=c8b8f0&currStreakLabel=9b85cc&sideLabels=b8a8d0&dates=8b7bb0&sideNums=c8b8f0&currStreakNum=c8b8f0"/>
-</p>
 
 ---
 
