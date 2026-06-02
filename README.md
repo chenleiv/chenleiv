@@ -38,13 +38,14 @@ Detail-oriented, driven by intuitive user experiences and continuous growth.
 
 **Projects**
 
+&nbsp;&nbsp;**[SignalForge](https://github.com/chenleiv/signal-forge)**
+&nbsp;&nbsp;Real-time cyber threat intelligence dashboard. Live signals, clean interface, zero lag.
+&nbsp;&nbsp;`Angular 19` `FastAPI` `TypeScript`
+
 &nbsp;&nbsp;**[InsightDesk](https://github.com/chenleiv/insight-desk)**
 &nbsp;&nbsp;Document management with a built-in AI assistant powered by RAG. Ask your docs questions, get real answers.
 &nbsp;&nbsp;`React` `Node.js` `RAG` `AI`
 
-&nbsp;&nbsp;**[SignalForge](https://github.com/chenleiv/signal-forge)**
-&nbsp;&nbsp;Real-time cyber threat intelligence dashboard. Live signals, clean interface, zero lag.
-&nbsp;&nbsp;`Angular 19` `FastAPI` `TypeScript`
 
 ---
 
