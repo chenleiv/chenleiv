@@ -59,14 +59,3 @@ Detail-oriented, driven by intuitive user experiences and continuous growth.
 
 ---
 
-**Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chenleiv&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e" height="155"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenleiv&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" height="155"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chenleiv&hide_border=true&background=0d1117&ring=6e7681&fire=c9d1d9&currStreakLabel=8b949e&sideLabels=6e7681&dates=484f58&sideNums=c9d1d9&currStreakNum=c9d1d9"/>
-</p>
