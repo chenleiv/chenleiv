@@ -21,11 +21,15 @@ Controls I built into InsightDesk and SignalForge:
 - **Secure sessions**: HttpOnly cookies, JWTs with HS256 pinned, and logout that ends the session on the server (InsightDesk, SignalForge).
 - **Input validation**: uploads must match their file type and size limits (InsightDesk), and IP inputs must be public addresses, as an SSRF guard (SignalForge).
 - **Rate limiting**: failed logins limited per address and per account (InsightDesk, SignalForge), plus daily usage limits (InsightDesk).
-- **MITRE ATT&CK**: ATT&CK tags in SignalForge's threat intelligence view.
+
+Knowledge and tools: OWASP Top 10, XSS, CSRF and SQL injection, Burp Suite, Linux (CLI), Python (scripting).
 
 ## Tech
 
-Angular, React, TypeScript, Next.js, Node.js, Express, FastAPI, MongoDB, MobX, SCSS.
+- **Frontend**: Angular (Signals), React, Next.js, TypeScript, RxJS, MobX, SCSS
+- **Backend and APIs**: Node.js, Express, FastAPI, REST, WebSockets, MongoDB
+- **Architecture**: Nx, real-time systems, component libraries
+- **AI tools**: Claude Code (agents, skills), Cursor, prompt engineering
 
 ## Links
 
