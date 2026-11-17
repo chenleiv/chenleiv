@@ -26,7 +26,10 @@ Knowledge and tools: OWASP Top 10, XSS, CSRF and SQL injection, Burp Suite, Linu
 
 ## Tech
 
-Angular, React, TypeScript, Next.js, Node.js, Express, FastAPI, MongoDB, MobX, SCSS.
+- **Frontend**: Angular (Signals), React, Next.js, TypeScript, RxJS, MobX, SCSS
+- **Backend and APIs**: Node.js, Express, FastAPI, REST, WebSockets, MongoDB
+- **Architecture**: Nx, real-time systems, component libraries
+- **AI tools**: Claude Code (agents, skills), Cursor, prompt engineering
 
 ## Links
 
