@@ -1,61 +1,22 @@
-<div align="center">
-
 # Chen Leiv
 
-**Frontend Developer**
+Frontend Engineer with 4+ years of experience building web applications with Angular, React and TypeScript, moving toward application security.
+Portfolio: https://chenleiv.vercel.app
 
-<br>
+Based in Tel Aviv. Mentoring girls in tech at She Codes. Dog mom to Bucky.
 
-4 years building scalable, high-performance web applications.
-Detail-oriented, driven by intuitive user experiences and continuous growth.
+[![Interactive isometric room portfolio](https://raw.githubusercontent.com/chenleiv/my-portfolio/main/docs/screenshots/room-light.png)](https://chenleiv.vercel.app)
 
-<br>
+## Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=8b949e)](https://www.linkedin.com/in/chen-leiv/)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=flat-square&logo=vercel&logoColor=8b949e)](https://chenleiv.vercel.app/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=8b949e)](mailto:chenleiv1@gmail.com)
+- **Portfolio**: an isometric room you can walk around, plus a terminal you can type commands into. Next.js, React, TypeScript. [Code](https://github.com/chenleiv/my-portfolio) · [Live](https://chenleiv.vercel.app)
+- **InsightDesk**: a document workspace with a chat that answers from your documents and cites its sources. React, Node.js, Express, MongoDB. [Code](https://github.com/chenleiv/insight-desk) · [Live demo](https://insight-desk-bwji.onrender.com)
+- **SignalForge**: a SOC dashboard for real-time threat monitoring, alert triage and incident investigation, with role-based access control. Angular 21, FastAPI. [Code](https://github.com/chenleiv/signal-forge) · [Live demo](https://signalforge-api-ah1q.onrender.com) (the first load can take a moment while the server wakes up)
 
-</div>
+## Tech
 
----
+Angular, React, TypeScript, Next.js, Node.js, Express, FastAPI, MongoDB, MobX, SCSS.
 
-**Stack**
+## Links
 
-![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=c9d1d9)
-![Angular](https://img.shields.io/badge/Angular-161b22?style=flat-square&logo=angular&logoColor=c9d1d9)
-![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=c9d1d9)
-![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=c9d1d9)
-![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=8b949e)
-![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=8b949e)
-![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=8b949e)
-![Redux](https://img.shields.io/badge/Redux-161b22?style=flat-square&logo=redux&logoColor=6e7681)
-![MobX](https://img.shields.io/badge/MobX-161b22?style=flat-square&logoColor=6e7681)
-![AI · RAG](https://img.shields.io/badge/AI_·_RAG-161b22?style=flat-square&logoColor=6e7681)
-
----
-
-**Projects**
-
-&nbsp;&nbsp;**[SignalForge](https://github.com/chenleiv/signal-forge)**
-&nbsp;&nbsp;Real-time cyber threat intelligence dashboard. Live signals, clean interface, zero lag.
-&nbsp;&nbsp;`Angular 19` `FastAPI` `TypeScript`
-
-&nbsp;&nbsp;**[InsightDesk](https://github.com/chenleiv/insight-desk)**
-&nbsp;&nbsp;Document management with a built-in AI assistant powered by RAG. Ask your docs questions, get real answers.
-&nbsp;&nbsp;`React` `Node.js` `RAG` `AI`
-
-
----
-
-**About**
-
-| | |
-|---|---|
-| 4 years shipping real products for real users | Problem-solver, detail-oriented, always learning |
-| Mentoring girls in tech @ She Codes | Dog mom to Bucky 🐶 |
-| Tel Aviv | Film · gaming · tech |
-
----
-
+[LinkedIn](https://www.linkedin.com/in/chen-leiv) · [Portfolio](https://chenleiv.vercel.app)
